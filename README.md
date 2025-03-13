@@ -3,6 +3,6 @@ If no file Still in development
 --------------------------------
 Netbat. is a simple network hacking tool 
 --------------------------------
-For Sneak Peeks You need to ask :)
+Finally ITS OUT
 --------------------------------
-Wait till its out!
+very simple coded
